@@ -1,6 +1,3 @@
-CsontRAKETA 2025 - MIT
-PC CRASHER
-
                       HOT POTATO LICENSE
                   Version 2, September 2021
 All rights reserved by the last person to commit a change to this
